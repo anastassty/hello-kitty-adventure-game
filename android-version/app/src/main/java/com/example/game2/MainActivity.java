@@ -18,11 +18,8 @@ import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.util.DisplayMetrics;
 /*
-Name: Anastasiia Tykina
-Student ID: 100433562
-Date: 12/01/2025
 Program Description: this program creates a simple game with 4 rooms surrounded by trees.
-The player controls Hello Kitty using on screen buttons. Hello Kitty can move around, throw shadow shurikens and collect bats.
+The player controls Hello Kitty using on screen buttons. Hello Kitty can move around, throw shadow shurikens, and collect bats.
 Shurikens disappear when they hit trees/treasure chests.
 The game has been tested on a Pixel 4a emulator.
 */
